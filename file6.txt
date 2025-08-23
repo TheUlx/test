@@ -1,0 +1,1 @@
+ 3: insert in file6.txt 
