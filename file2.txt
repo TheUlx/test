@@ -1,1 +1,0 @@
-1: insert in file2.txt 
