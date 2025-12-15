@@ -1,7 +1,6 @@
 "1: insert in file1.txt" 
 "3: insert in file1.txt" 
- "4: insert  i file1.txt"  
- "5: insert in file1.txt" 
-"6 :  isert  in file1.txt "  
-
-"add  frim  wev"
+"4: insert in file1.txt"  
+"5: insert in file1.txt" 
+"6: insert in file1.txt "  
+"w: add from web"
