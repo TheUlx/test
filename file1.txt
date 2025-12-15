@@ -3,3 +3,5 @@
  "4: insert  i file1.txt"  
  "5: insert in file1.txt" 
 "6 :  isert  in file1.txt "  
+
+"add  frim  wev"
